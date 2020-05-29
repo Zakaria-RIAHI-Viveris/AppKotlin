@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppKotlin</string>
+    <string name="creation_date">Creation date : %1$s</string>
+    <string name="website">Website</string>
+</resources>
